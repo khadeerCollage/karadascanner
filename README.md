@@ -186,7 +186,7 @@ The model was trained on an annotated dataset of body measurements with:
 
 ## 👥 Contributors
 
-- Your Name - Initial work and development
+- Your Name - Shaik.Khadeer 
 
 ## 📄 License
 
